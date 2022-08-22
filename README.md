@@ -1,1 +1,3 @@
-# what-the-puck
+```
+![animation](./wtp.gif)
+```
